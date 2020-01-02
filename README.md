@@ -70,7 +70,8 @@
   
  # 自動寫 API doc 的套件
  
- 請詳 github/REMitchell/apiscraper
+ 請詳 
+ https://github.com/QueenieCplusplus/apiscraper
  
  下載專案後，執行
  
