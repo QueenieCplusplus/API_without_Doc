@@ -18,6 +18,13 @@
 
 而爬蟲角度而言，會得到沒有內容的 HTML Template。
 
+# 判斷無文件 API
+
+使用 Crome Dev Tool，檢視 HTML 網頁或是檢視網頁的請求與回應。
+在載入網頁前，先開啟工具，開啟 Crome Inspector，點擊 Network 頁籤。
+載入網頁時，會見到瀏覽器為了顯示網頁所發出的呼叫，包含 API call。
+此時，能用 search/filter 欄位過濾清單。
+
 # Selenium 套件
 
 此套件用於解決如上問題，解決方案如下：
