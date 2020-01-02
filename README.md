@@ -35,6 +35,8 @@
 
 # 直接呼叫 API，藉以載入資料
 
+直接呼叫 API，僅僅需要發出一個請求與 60 kB 格式的資料。
+
 範例：
 
       https://query.nytimes.com/svc/add/v1/sitesearch.json?q=python&spot=true&optiones=true
