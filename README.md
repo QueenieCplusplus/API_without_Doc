@@ -31,7 +31,13 @@
 4. 接著，圖像和 CSS 及文字資料將被載入。
 
 5. 設計上，要約束搜索範圍和條件，否則自己的伺服器會不堪負荷。
+（若使用套件爬蟲執行探勘網頁，每個搜尋可能發出100個請求以及下載了 600 kB 資料）
 
+# 直接呼叫 API，藉以載入資料
+
+範例：
+
+      https://query.nytimes.com/svc/add/v1/sitesearch.json?q=python&spot=true&optiones=true
 
 
 
