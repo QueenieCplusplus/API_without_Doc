@@ -72,6 +72,25 @@
  
  請詳 github/REMitchell/apiscraper
  
+ 下載專案後，執行
+ 
+ help
+ 
+     $python consoleservice.py -h
+
+target url & search term
+
+     $python consoleservice.py -u <url> -s <search term>
+     
+scraper on multi-pages 
+
+     $python consoleservice.py -i <> -s <>
+     
+to monitor throuput for multi-pages
+
+     $python consoleservice.py -i <>
+     
+ 
 
 
 
