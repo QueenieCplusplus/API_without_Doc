@@ -67,6 +67,10 @@
   - header(including cookies)
   - body in formats
   - fields
+  
+ # 自動寫 API doc 的套件
+ 
+ 請詳 github/REMitchell/apiscraper
  
 
 
