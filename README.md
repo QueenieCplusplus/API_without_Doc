@@ -40,6 +40,27 @@
 範例：
 
       https://query.nytimes.com/svc/add/v1/sitesearch.json?q=python&spot=true&optiones=true
+      
+# 無文件 API 的文件
+
+6. 改用 API 呼叫，則對自己做的機器人，可以自己寫文件，獲得幫助。
+
+透過載入此網站的多個網頁，從網路分頁過濾出目標 API call，一但如此，便能將整個網站架構，識別出其呼叫和接受欄位與回傳欄位。
+
+* HTTP methods
+
+* Input
+  
+  -
+  -
+  -
+
+* Output
+  
+  -
+  -
+  -
+ 
 
 
 
