@@ -49,17 +49,17 @@
 
 * HTTP methods
 
-* Input
+* Input || Request
   
-  -
-  -
-  -
+  - path-param
+  - header(including cookies)
+  - body
 
-* Output
+* Output || Response
   
-  -
-  -
-  -
+  - header(including cookies)
+  - body in formats
+  - fields
  
 
 
