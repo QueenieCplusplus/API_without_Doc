@@ -88,7 +88,7 @@ scraper on multi-pages
      
 to monitor throuput for multi-pages
 
-     $python consoleservice.py -i <>
+     $python consoleservice.py -i <url 或是 HAR 檔案目錄>
      
  
 
